@@ -3,7 +3,7 @@ projects:
     source:
       type: git
       location: https://github.com/blues-man/nodejs-mongodb-sample.git
-      branch: master
+      branch: demo
 metadata:
   generateName: nodejs-mongo-
 components:
