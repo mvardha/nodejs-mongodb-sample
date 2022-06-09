@@ -2,7 +2,7 @@ projects:
   - name: nodejs-mongodb-sample
     source:
       type: git
-      location: https://github.com/blues-man/nodejs-mongodb-sample.git
+      location: https://github.com/mvardha/nodejs-mongodb-sample.git
       branch: demo
 metadata:
   generateName: nodejs-mongo-
