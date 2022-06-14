@@ -3,7 +3,7 @@ A simple NodeJS web application which communicates with MongoDB. Useful for test
 
 # Deploy it to CodeReady Workspaces with Factory
 
-[![Contribute](factory-contribute.svg)](https://codeready-codeready-workspaces-operator.apps.sandbox-m2.ll9k.p1.openshiftapps.com/factory?url=https://github.com/mvardha/nodejs-mongodb-sample.git)
+[![Contribute](factory-contribute.svg)](https://codeready-openshift-operators.apps.mohittest.nasatam.support/factory?url=https://github.com/mvardha/nodejs-mongodb-sample.git)
 
 # MongoDB
 The application connects to the Mongo data base, so it should be configured with next parameters:
