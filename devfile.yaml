@@ -6,17 +6,7 @@ projects:
       branch: demo
 metadata:
   generateName: nodejs-mongo-
-components:
-  - type: chePlugin
-    registryUrl: 'https://eclipse-che.github.io/che-plugin-registry/7.42.0/v3/'
-    id: che-incubator/typescript/latest
-    memoryLimit: 512Mi
-  - type: chePlugin
-    registryUrl: 'https://eclipse-che.github.io/che-plugin-registry/7.42.0/v3/'
-    id: ms-vscode/node-debug2/latest
-  - type: chePlugin
-    registryUrl: 'https://eclipse-che.github.io/che-plugin-registry/7.42.0/v3/'
-    id: redhat/vscode-openshift-connector/latest
+components:  
   - type: dockerimage
     alias: nodejs
     image: >-
